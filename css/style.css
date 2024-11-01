@@ -1,0 +1,32 @@
+.section{
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.section h1{
+    text-align: center;
+}
+.section button{
+    width: 200px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 40px;
+    color: white;
+    border-style: none;
+}
+.section p{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+}
+
+div{
+ height: 200px;
+ width: 200px;
+    
+}
+img{
+    height: 200px;
+ width: 200px;
+     
+}
