@@ -1,0 +1,33 @@
+.section{
+    border: 4px solid red;
+    padding: 20px;
+    margin: 20px;
+}
+.section h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+
+.section div{
+    height: 250px;
+    width: 250px;
+}
+.section img{
+    height: 250px;
+}
+
+.section p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section button{
+    background-color: red;
+    border: none;
+    border-radius: 50px;
+    height: 30px;
+    width: 200px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
